@@ -1,4 +1,9 @@
-## Hi there 👋
+# 🌼 Hi there, I'm Jullien 🌼
+
+I'm an aspiring data analyst currently looking for a role to kickstart my career. 
+
+I am expanding my data knowledge and skills through various projects. 📊📈
+
 
 <!--
 **jullienp/jullienp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
