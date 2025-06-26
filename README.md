@@ -4,6 +4,10 @@ I'm an aspiring data analyst currently looking for a role to kickstart my career
 
 I am expanding my data knowledge and skills through various projects. 📊📈
 
+### Connect with me 👋📧
+
+- [LinkedIn](https://www.linkedin.com/in/jullien-priddon-36426b150/)
+
 
 <!--
 **jullienp/jullienp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
